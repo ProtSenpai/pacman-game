@@ -1,0 +1,4 @@
+25	100	0	10	DOWN	0	false
+25	0	150	12	RIGHT	0	false
+25	250	0	14	UP	0	false
+25	0	330	16	RIGHT	0	false

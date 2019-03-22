@@ -1,0 +1,4 @@
+15	0	90	10	LEFT	0	false
+15	0	120	5	RIGHT	0	false
+15	350	0	14	UP	0	false
+15	280	0	16	DOWN	0	false
